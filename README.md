@@ -50,7 +50,8 @@ This project visualizes the relationships between corporate performance metrics,
 | **Power BI** | Dashboard creation and visualization |
 | **Excel / CSV Data** | Data source for financial & economic metrics |
 | **DAX (Data Analysis Expressions)** | Custom KPI calculations |
-| **Power Query** | Data cleaning and transformation |
+| **Power Query** | Data cleaning and transformation |<img width="585" height="332" alt="dashboard" src="https://github.com/user-attachments/assets/d1246e22-da6a-41c4-815b-58fe054a9a36" />
+
 
 ---
 
