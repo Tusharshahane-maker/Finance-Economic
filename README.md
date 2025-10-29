@@ -56,5 +56,7 @@ This project visualizes the relationships between corporate performance metrics,
 ---
 
 ## 📁 Repository Structure
+C:\Users\Akash\Desktop\powerbi\pbi worksheets\project\finance and economics
+
 
 
